@@ -11,7 +11,7 @@ sh setup.sh
 
 ### 2.3 Preprocessing
 
-Downloading supervised training data for training from retriever checkpoint experiment.
+Downloading supervised training data from the [Echo Embeddings Repository](https://github.com/jakespringer/echo-embeddings) for training from retriever checkpoint experiment.
 ```bash
 cd data
 wget "https://drive.usercontent.google.com/download?id=1YqgaJIzmBIH37XBxpRPCVzV_CLh6aOI4&export=download"

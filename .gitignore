@@ -30,7 +30,6 @@ MANIFEST
 llm2vec/images
 llm2vec/mlruns/
 mlruns/
-misc_code/
 *old*
 slurm-*.out
 llm2vec/wandb/
