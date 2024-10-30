@@ -3,6 +3,9 @@ RARe - Retrieval Augmented Retrieval With In-Context Examples
 
 ## 1. Overview
 
+Code for the paper: [RARe - Retrieval Augmented Retrieval With In-Context Examples](https://arxiv.org/abs/2410.20088)
+We present an approach that finetunes models with semantically similar in-context examples to boost retrieval performance.
+
 ## 2. Setup
 ### 2.2 Installation
 ```bash
@@ -68,5 +71,13 @@ You may need to modify ```e5_models.py``` ```llm2vec_models.py``` and ```repllam
 
 If our work was helpful in your research, please kindly cite us as follows:
 ```
-
+@misc{tejaswi2024rare,
+      title={RARe: Retrieval Augmented Retrieval with In-Context Examples}, 
+      author={Atula Tejaswi and Yoonsang Lee and Sujay Sanghavi and Eunsol Choi},
+      year={2024},
+      eprint={2410.20088},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.20088}, 
+}
 ```
