@@ -3,7 +3,8 @@ RARe - Retrieval Augmented Retrieval With In-Context Examples
 
 ## 1. Overview
 
-Code for the paper: [RARe - Retrieval Augmented Retrieval With In-Context Examples](https://arxiv.org/abs/2410.20088)
+Code for the paper: [RARe - Retrieval Augmented Retrieval With In-Context Examples](https://arxiv.org/abs/2410.20088).
+
 We present an approach that finetunes models with semantically similar in-context examples to boost retrieval performance.
 
 ## 2. Setup
